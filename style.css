@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+h2{
+    margin: 50px;
+}
+button{
+    margin: 50px;
+}
+img{
+    display: inline-block;
+    margin: 50px;
+    height: 400px;
+    width: 400px;
+    
+}
+.img-container{
+    border-radius: 30px;
+    height: 600px;
+    width: 600px;
+    border: 2px solid red;
+    position: absolute;
+    left: 650px;
+    background-color: cadetblue;
+}
